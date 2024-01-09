@@ -1,0 +1,18 @@
+自我介绍
+根据简历提问：CTA策略是什么，alpha-stable distribution（延申出characteristic function of Gaussian dist）
+掷均匀硬币，H，T，第一次掷到TT所需次数的均值
+
+
+知道线性回归吗，线性回归加上l1和l2范数的惩罚项是啥？Lasso回归和ridge回归。区别是什么，Lasso回归可以导致稀疏，强制系数为0。为啥？
+
+
+LassoLasso回归怎么求解？不会。答案是次梯度下降。
+
+
+如何证明协方差矩阵是正定的
+
+list和tuple的区别？
+
+深复制和浅复制的区别？
+
+如何计算p^k？for loop时间复杂度是O(k)，拆分递归，时间复杂度是O(logk)
